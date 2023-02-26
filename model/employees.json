@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "firstname": "Richmond",
+    "lastname": "Ramil",
+    "email": "Richmond@gmail.com",
+    "position": "Frontend Developer",
+    "age": 22
+  },
+  {
+    "id": 2,
+    "firstname": "Jerson",
+    "lastname": "Aganon",
+    "email": "Jerson@gmail.com",
+    "position": "Backend Developer",
+    "age": 23
+  }
+]

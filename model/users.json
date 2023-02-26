@@ -1,0 +1,35 @@
+[
+  {
+    "username": "Fernand",
+    "firstname": "Fernand",
+    "lastname": "Galeon",
+    "age": "23",
+    "position": "UI/UX Designer || Editor",
+    "roles": { "User": 2001 },
+    "email": "Fernand@gmail.com",
+    "password": "$2b$10$7NY.IljOOrRu8jQTzXi6POz4g5wC4uw2Ee07TGZD4vGowsrQfiRe6",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IkZlcm5hbmRAZ21haWwuY29tIiwiaWF0IjoxNjU4MTY5NzUyLCJleHAiOjE2NTgyNTYxNTJ9.KllpG1UhNAX-pgkmBS2CixF4O1g4vY-CO4n4EZ-kz-c"
+  },
+  {
+    "username": "Jerson",
+    "firstname": "Jerson",
+    "lastname": "Aganon",
+    "age": "24",
+    "position": "UI/UX Designer || Editor",
+    "roles": { "User": 2001, "Editor": 1984 },
+    "email": "Jerson@gmail.com",
+    "password": "$2b$10$7NY.IljOOrRu8jQTzXi6POz4g5wC4uw2Ee07TGZD4vGowsrQfiRe6",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IkplcnNvbkBnbWFpbC5jb20iLCJpYXQiOjE2NTgxNjk5MTksImV4cCI6MTY1ODI1NjMxOX0.aMNlSZnoondJHWWJCuAswb9f64OnoQaY4SbBDOBHaB8"
+  },
+  {
+    "username": "Richmond",
+    "firstname": "Richmond",
+    "lastname": "Ramil",
+    "age": "22",
+    "roles": { "User": 2001, "Editor": 1984, "Admin": 5150 },
+    "position": "Frontend Developer || Admin",
+    "email": "Richmond@gmail.com",
+    "password": "$2b$10$X5QETlRRcOminJmewHXC6u4ryWYA/GlaOfAfabd0UBwFoXzeNWDx.",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IlJpY2htb25kQGdtYWlsLmNvbSIsImlhdCI6MTY1ODE3MDAyNywiZXhwIjoxNjU4MjU2NDI3fQ.s3pA-De3sKVWU8rbZ0YhCGMUqK2UIF_jCu_1J3MwVqo"
+  }
+]
